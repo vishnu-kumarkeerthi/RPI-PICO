@@ -158,4 +158,3 @@ I2C devices found: [39]
 
 ---
 
-**Designed for embedded learning and practical experimentation.**
